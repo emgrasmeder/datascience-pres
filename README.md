@@ -3,7 +3,7 @@
 
 ### Table of Contents:
 1. [Packages to install](https://github.com/emmagras/datascience-pres/tree/master#packages-to-install)
-2. [Books to read](https://github.com/emmagras/datascience-pres/blob/master/README.md#things-to-read)
+2. [Things to read](https://github.com/emmagras/datascience-pres/blob/master/README.md#things-to-read)
 1. [Pandas](https://github.com/emmagras/datascience-pres/tree/master#pandas): Your gateway to an Excel-free life
 1. [NLTK](https://github.com/emmagras/datascience-pres/tree/master#nltk): Natural language processing
 1. [Sci-Kit Learn](https://github.com/emmagras/datascience-pres/tree/master#sklearn): Machine learning, classification
