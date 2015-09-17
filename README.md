@@ -51,7 +51,7 @@ The Sklearn package is exciting and deep. You can use it for almost any machine 
 ## IPython Notebook
 ### Sharing code and visualizing data elegantly
 
-The easiest way to get started with Data Science is to [download this Anaconda distribution.](http://continuum.io/downloads#py34). In doing so, you will get the most popular science packages, including IPython Notebook. Alternatively, you can install IPython on your own, following [these simple directions](http://ipython.org/install.html). IPython allows you to share your code more easily, and has become a popular way for hard-copy authors of coding books to share their code snippets as supplementat material for their books. 
+The easiest way to get started with Data Science is to [download this Anaconda distribution.](http://continuum.io/downloads#py34). In doing so, you will get the most popular science packages, including IPython Notebook. Alternatively, you can install IPython on your own, following [these simple directions](http://ipython.org/install.html). IPython allows you to share your code more easily, and has become a popular way for hard-copy authors of coding books to share their code snippets as supplementat material for their books. Many of the files inside this GitHub repository are IPython Notebook files (`*.ipynb`) which can be viewed directly in GitHub. 
 
 ## Matplotlib
 ### Data Visualizations!
