@@ -41,7 +41,7 @@ I strongly recommend using the Natural Language ToolKit during your introductory
 The NLTK creators have also added a [list of resources to wiki](https://github.com/nltk/nltk/wiki), including a *project ideas* page. 
 ####  NLTK Extras
 
-The Natural Language Toolkit comes with a lot of features built into it, and still many others that you're probably never going to use (for example, a multitude of languages, or a series of tagged texts including parts of the Torah, Jane Austen's Emma, and an online chatroom in the 90s. Many of these packages have uses, for example training classifiers for a given topic, but they need to be downloaded using the [NLTK Downloader, which you can use through the command line while in interactive python mode.](http://www.nltk.org/data.html)
+The Natural Language Toolkit comes with a lot of features built into it, and still many others that you're probably never going to use (for example, a multitude of languages, or a series of tagged texts including parts of the Torah, Jane Austen's Emma, and an online chatroom in the 90s. You might use these to train a classifier for of a very specific set of text (eg, tweets), but because they are niche, you have to download them individually. [Just use nltk.Download() from the command line while in interactive python mode.](http://www.nltk.org/data.html)
 
 ## Sklearn
 ### Machine learning with Python
