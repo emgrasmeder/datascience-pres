@@ -1,5 +1,5 @@
-# datascience-pres
-An Introduction to Data Science Tools with Python
+###### datascience-pres
+# An Introduction to Data Science Tools with Python
 
 ### Table of Contents:
 1. [Packages to install](https://github.com/emmagras/datascience-pres/tree/master#packages-to-install)
