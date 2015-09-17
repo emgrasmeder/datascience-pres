@@ -7,7 +7,7 @@
 1. [Pandas](https://github.com/emmagras/datascience-pres/tree/master#pandas): Your gateway to an Excel-free life
 1. [NLTK](https://github.com/emmagras/datascience-pres/tree/master#nltk): Natural language processing
 1. [Sci-Kit Learn](https://github.com/emmagras/datascience-pres/tree/master#sklearn): Machine learning, classification
-2. [IPython Notebook](ipython-notebook): Visuals and code sharing made easy
+2. [IPython Notebook](https://github.com/emmagras/datascience-pres/blob/master/README.md#ipython-notebook): Visuals and code sharing made easy
 1. [Matplotlib](https://github.com/emmagras/datascience-pres/tree/master#matplotlib): Data visualizations
 
 ## Packages to install
